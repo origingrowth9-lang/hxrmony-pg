@@ -1,0 +1,9 @@
+export { HeroSection } from './HeroSection';
+export { EcosystemSection } from './EcosystemSection';
+export { TechnologySection } from './TechnologySection';
+export { ProjectsSection } from './ProjectsSection';
+export { MetricsSection } from './MetricsSection';
+export { VisionSection } from './VisionSection';
+export { TeamSection } from './TeamSection';
+export { TestimonialsSection } from './TestimonialsSection';
+export { ContactSection } from './ContactSection';

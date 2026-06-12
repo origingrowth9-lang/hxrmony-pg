@@ -1,16 +1,18 @@
-# Harmony - Advanced DeepTech Platform
+# 🚀 Harmony - Advanced DeepTech Platform
 
-Plataforma web corporativa futurista para transformar el futuro a través de la tecnología.
+> Construimos la tecnología detrás del futuro.
 
-## 🚀 Características
+Una plataforma web corporativa futurista que integra **5 ecosistemas tecnológicos interconectados** (Educación, Arquitectura, Desarrollo, Movilidad, Finanzas) con diseño **glassmorphism**, animaciones avanzadas y experiencia de usuario de clase mundial.
 
-- **Diseño Minimalista Premium**: Interfaz moderna con glassmorphism y animaciones fluidas
-- **5 Ecosistemas de Innovación**: Educación, Arquitectura, Software, Movilidad y Finanzas
-- **Stack Tecnológico Avanzado**: Next.js 14, React 18, TypeScript, TailwindCSS, Framer Motion
-- **Animaciones Inmersivas**: Efectos visuales fluidos y microinteracciones
-- **Fully Responsive**: Diseño adaptable para todos los dispositivos
-- **SEO Optimizado**: Metadatos y estructura semántica completa
-- **Accesibilidad**: WCAG 2.1 Level AA compliance
+## ✨ Características Principales
+
+- **5 Ecosistemas Integrados**: Educación, Arquitectura, Desarrollo, Movilidad, Finanzas
+- **Diseño Glassmorphism**: Fondos borrosos, gradientes sutiles y efectos glow
+- **Animaciones Fluidas**: Powered by Framer Motion con scroll triggers
+- **9 Secciones Completas**: Hero, Ecosistemas, Tecnologías, Proyectos, Métricas, Visión, Team, Testimonios, Contacto
+- **Accesibilidad Completa**: ARIA labels, navegación semántica, contraste óptimo
+- **PWA Ready**: Web manifest y favicon optimizado
+- **SEO Optimizado**: Metadatos OpenGraph, Twitter Cards, sitemap
 
 ## 📁 Estructura del Proyecto
 
